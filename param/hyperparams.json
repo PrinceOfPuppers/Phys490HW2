@@ -1,0 +1,8 @@
+{
+"learningRate": 0.001,
+"trainBatchSize": 10,
+"testBatchSize": 10,
+"testSize": 3000,
+
+"epochs": 1
+}
